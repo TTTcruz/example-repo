@@ -1,3 +1,3 @@
-# Sanple file
+# Sample file
 
 something
